@@ -9,5 +9,9 @@ public class AccountDAO {
 		
 		System.out.println(getClass() + " DOING MY DB WORK: ADDING AN ACCOUNT");
 	}
+	
+	public void  updateAccount() {
+		System.out.println("The coming of Jesus Christ");
+	}
 
 }
